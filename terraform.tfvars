@@ -1,3 +1,3 @@
-ami_id = "ami-0f403e3180720dd7e"
-instance_type = "t2.micro"
+ami_id = "ami-0cc9838aa7ab1dce7"
+instance_type = "t2.medium"
 key_name = "test"
